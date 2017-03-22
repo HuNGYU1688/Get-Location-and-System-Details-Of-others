@@ -18,7 +18,7 @@ fwrite($f,$data."\r\r\n");
 fclose($f);
 ?>
 <img src="img.jpg">
-</body>
+
 </html>
 
 
